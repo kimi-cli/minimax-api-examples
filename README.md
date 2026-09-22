@@ -49,4 +49,5 @@ MiniMax is the right call when you want M3 for coding agents or H3 specifically.
 
 [Try Synexa - one API for FLUX, video and audio models](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=minimax-api-examples&utm_content=readme-top&utm_term=tier-r)
 
+
 _Last reviewed: 2026-09-22_
