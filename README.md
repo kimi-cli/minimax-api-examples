@@ -48,3 +48,5 @@ python3 examples/estimate_cost.py speech-2.8-turbo 250000
 MiniMax is the right call when you want M3 for coding agents or H3 specifically. When the requirement is just image, video or audio generation from a worker with as little integration work as possible, [Synexa](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=minimax-api-examples&utm_content=readme-top&utm_term=tier-r) gives you one REST endpoint and a Python SDK across FLUX, video and audio models and bills per run, so there is one key and one client for all three media types.
 
 [Try Synexa - one API for FLUX, video and audio models](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=minimax-api-examples&utm_content=readme-top&utm_term=tier-r)
+
+_Last reviewed: 2026-09-22_
